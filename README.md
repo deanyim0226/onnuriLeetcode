@@ -8,5 +8,5 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty |Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :white_check_mark: | Linkedlist | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/206) |
+| :white_check_mark: | Linkedlist | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| EASY | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/206) |
 
