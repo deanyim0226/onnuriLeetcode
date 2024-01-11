@@ -1,9 +1,10 @@
 # onnuriLeetcode
-[<span style="color:#00ff00">This is green text</span>](https://placehold.it/150/ffffff/ff0000?text=hello)
+```diff
+
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty |Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Arrays & Hashing | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)| <span style="color: green;">Easy</span> | [Code]() |
+| :black_square_button: | Arrays & Hashing | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)| + Easy | [Code]() |
 | :black_square_button: | Arrays & Hashing | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| Easy | [Code]() |
 | :black_square_button: | Arrays & Hashing | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)| Easy | [Code]() |
 | :black_square_button: | Arrays & Hashing | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| Medium | [Code]() |
