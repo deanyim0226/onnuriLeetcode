@@ -1,8 +1,5 @@
 # onnuriLeetcode
-<span style="color:red">
-Text content
-</span>
-
+<span style="color:#00ff00">This is green text</span>
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty |Solution |
 | :---: | :---: | :---: | :---: | :---: |
