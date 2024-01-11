@@ -12,8 +12,8 @@
 | :black_square_button: | Arrays & Hashing | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| Medium | [Code]() |
 -------------------------------------------------------------------------------
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+ text in red
+text in green
+text in orange
+ text in gray
 @@ text in purple (and bold)@@
