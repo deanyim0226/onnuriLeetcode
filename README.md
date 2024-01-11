@@ -1,18 +1,7 @@
 # onnuriLeetcode
 > [!NOTE]
-> f
+> Solve 5 questions by next Saturday
 
-> [!TIP]
-> f
-
-> [!IMPORTANT]
-> f
-
-> [!WARNING]
-> f
-
-> [!CAUTION]
-> f
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
