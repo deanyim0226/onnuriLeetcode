@@ -18,7 +18,7 @@ public:
 
             if(number.find(n) != number.end()){
 
-                return {twosum [n], i};
+                return {number [n], i};
             }
             
             number[nums[i]] = i;
