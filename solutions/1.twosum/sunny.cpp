@@ -17,8 +17,7 @@ public:
             int n = target - nums[i];
 
             if(number.find(n) != number.end()){
-
-                return {number [n], i};
+                return {nums[n], i};
             }
             
             number[nums[i]] = i;
