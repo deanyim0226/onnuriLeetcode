@@ -14,7 +14,7 @@
 > [!NOTE]
 > WEEK 1 FROM JAN 13 to JAN 20
 -------------------------------------------------------------------------------
-| Status | Topic | Title | Difficulty | Solution | WEEK 1 FROM JAN 13 TO JAN 20 |
+| Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
 | :white_check_mark: | Arrays & Hashing | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)|  $\textcolor{green}{\textsf{Easy}}$ | [Code](https://github.com/deanyim0226/onnuriLeetcode/tree/main/solutions/217.containsDuplicate) |
 | :white_check_mark: | Arrays & Hashing | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code](https://github.com/deanyim0226/onnuriLeetcode/tree/main/solutions/242.validAnagram) |
