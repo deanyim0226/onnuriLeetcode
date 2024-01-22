@@ -11,6 +11,11 @@ class Solution {
         then put it in the same bucket
         
         brute force approach
+
+        time complexity of this algorithm is o(n*m) where n is the length of array m is average length of each string
+        space complexity of this algorithm is o(n*m)  
+        we create a frequency map for each string and store in the map, 
+        additionally the grouped strings in list 
         */
 
         List<List<String>> ans = new ArrayList<>();

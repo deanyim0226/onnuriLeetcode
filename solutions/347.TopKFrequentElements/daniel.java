@@ -8,6 +8,8 @@ class Solution {
         //use a map data structure to store each element as a key
         //and a value as frequency of the element 
 
+        //o(n) time 
+        //o(n) space
         for(int i = 0; i < nums.length; ++i){
         
             if(map.containsKey(nums[i])){
@@ -20,6 +22,9 @@ class Solution {
 
         //if we sort the frequency of each element,
         //we can find k most frequent element 
+
+        // o(n log n) where n is a number of keys in map 
+        // adding element into pqueue k times as well.
 
         PriorityQueue<Integer> pQueue = new PriorityQueue<>();
         
@@ -36,6 +41,8 @@ class Solution {
         priority queue is maintained in a way that the size of queue is equal to k
         the feature of priority queue(min heap) sorts the frequency as we needed 
         since the min value(lowest frequency) is always stored at the root of the heap.
+
+        o(k*logk * n) where k is the size of pQueue n is a number of keys in map
         */
 
         int[] answer = new int[pQueue.size()];
