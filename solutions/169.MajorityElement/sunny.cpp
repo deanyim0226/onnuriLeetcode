@@ -12,7 +12,7 @@ public:
         int n = nums.size();
         unordered_map<int, int> Majority;
 
-        for(auto& element : nums){
+        for(int element : nums){
 
             Majority[element]++;
         }
