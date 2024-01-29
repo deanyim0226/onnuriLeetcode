@@ -25,8 +25,7 @@ class Solution {
                 if(boxChar != '.'){
                     int box = Character.getNumericValue(boxChar);
                     if(boxMap.containsKey(box)){
-                        int frequency = boxMap.get(box);
-                        boxMap.put(box,frequency+1);
+                        return false;
                     }else{
                         boxMap.put(box,1);
                     }
@@ -36,8 +35,7 @@ class Solution {
                 if(colChar != '.'){
                     int col = Character.getNumericValue(colChar);
                     if(rowMap.containsKey(col)){
-                        int frequency = rowMap.get(col);
-                        rowMap.put(col,frequency+1);
+                       return false;
                     }else{
                         rowMap.put(col,1);
                     }
@@ -48,24 +46,13 @@ class Solution {
                 if(rowChar != '.'){
                     int row = Character.getNumericValue(rowChar);
                     if(colMap.containsKey(row)){
-                        int frequency = colMap.get(row);
-                        colMap.put(row,frequency+1);
+                        return false;
                     }else{
                         colMap.put(row,1);
                     }
                  
                 }
                 
-            }
-
-            if(boxMap.size() > 0 && Collections.max(boxMap.values()) > 1){
-                return false;
-            }
-            if(rowMap.size() > 0 && Collections.max(rowMap.values()) > 1){
-                return false;
-            }
-            if(colMap.size() > 0 && Collections.max(colMap.values()) > 1){
-                return false;
             }
         }
 
