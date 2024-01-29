@@ -10,7 +10,7 @@
 | :black_square_button: | Two Pointers | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
-> WEEK 1 FROM JAN 21 to JAN 27
+> WEEK 2 FROM JAN 21 to JAN 27
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
