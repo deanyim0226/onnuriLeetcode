@@ -2,7 +2,7 @@ class Solution {
     public int majorityElement(int[] nums) {
         
         //find the majority element, which appears more than n/2 times
-
+        //time and space are o(n)
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i = 0; i < nums.length; ++i){

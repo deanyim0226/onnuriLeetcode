@@ -33,6 +33,18 @@ class Solution {
 
         return longest;
    */
+  /*
+        used set to store each unique element in array
+        since contains operation is o(1) constant time
+
+        to find the length of each sequence,
+        we need to determine whether the number is the start of seqeuence or not
+        we can simply find this by checking the number on the left 
+        basically if it does not have a number on the left, it's a start of seqeucne
+        if it is the start of the sequence,
+        we can keep track of a length of the sequence by increasing the value by 1
+
+  */
         HashSet<Integer> set = new HashSet<>();
 
         for(int i = 0; i <nums.length; i++){

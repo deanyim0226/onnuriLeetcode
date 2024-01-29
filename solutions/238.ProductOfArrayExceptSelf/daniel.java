@@ -48,6 +48,13 @@ class Solution {
         solve this problem in o(n) to avoid getting a time limit exceed
         a a1 a2 .. an-2 an-1 
 
+        find the product of all the elements on the left side except nums[i] 
+        find the product of all the elements on the right side except nums[i]
+        and multiply each of the corresponding indexes by each other.
+
+        time complexity of this algorithm is o(n) where n is the number of elements in array
+        space complexity is also o(n) since we create two arrays of sizes n 
+        where n is the number of elements in array
         1 2 3 4
         1 1 2 6
         24 12 4 1  
