@@ -4,6 +4,7 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
+| :black_square_button: | Two Pointers | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Two Pointers | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Two Pointers | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Two Pointers | [15. 3Sum](https://leetcode.com/problems/3sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
