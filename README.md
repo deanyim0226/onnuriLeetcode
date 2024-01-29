@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]
-> SOVLE FOUR PROBLEMS BY NEXT SATURDAY 
+> SOVLE TWO EASY AND THREE MEDIUM PROBLEMS BY NEXT SATURDAY 
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
