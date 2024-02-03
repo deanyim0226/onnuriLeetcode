@@ -5,7 +5,8 @@ class Solution {
         Arrays.sort(nums);
   
         List<List<Integer>> ans = new ArrayList<>();
-        HashSet<List<Integer>> set = new HashSet<>();  413 213
+        HashSet<List<Integer>> set = new HashSet<>(); 
+        List<Integer> list = null;
       //  -4 -2 -1 -1 0 1 2 3
         for(int i =0; i < nums.length; i++){
             int targetVal = nums[i];
