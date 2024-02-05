@@ -9,7 +9,7 @@
 | :black_square_button: | Sliding Window | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Sliding Window | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Sliding Window | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| $\textcolor{BurntOrange}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Stack | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Stack | [155. Min Stack](https://leetcode.com/problems/min-stack/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
