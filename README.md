@@ -1,14 +1,27 @@
 
 > [!IMPORTANT]
-> SOVLE TWO EASY AND THREE MEDIUM PROBLEMS BY NEXT SATURDAY 
+> SOVLE THREE EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY 
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Two Pointers | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Two Pointers | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Two Pointers | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Two Pointers | [15. 3Sum](https://leetcode.com/problems/3sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Two Pointers | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Recursion | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Stack | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| $\textcolor{BurntOrange}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Stack | [155. Min Stack](https://leetcode.com/problems/min-stack/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 3 FROM JAN 28 to FEB 3
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Two Pointers | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Two Pointers | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Two Pointers | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Two Pointers | [15. 3Sum](https://leetcode.com/problems/3sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Two Pointers | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 2 FROM JAN 21 to JAN 27
