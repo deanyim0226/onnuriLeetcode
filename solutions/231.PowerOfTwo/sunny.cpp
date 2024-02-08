@@ -4,11 +4,10 @@ using namespace std;
 
 
 class Solution {
-    public:
-        
-    bool helper(int n){
+public:
+    bool isPowerOfTwo(int n) {
 
-        if(n==1){
+         if(n==1){
 
             return true;  //base case
         }
@@ -18,18 +17,8 @@ class Solution {
             return false;
         }
 
-        return helper(n/2);
+        return isPowerOfTwo(n/2);
         
     }
-
         
-    
-    bool isPowerOfTwo(int n) {
-
-        return helper(n);
-        
-    }
-
-    
-   
 };
