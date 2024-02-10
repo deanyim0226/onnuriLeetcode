@@ -10,7 +10,7 @@ public:
 
       int n = prices.size();
 
-      int minprice = prices[0];
+      int minprice = prices[0];  
 
       int maxprof = 0;
 
