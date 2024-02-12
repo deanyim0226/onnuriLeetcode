@@ -5,7 +5,7 @@
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
 | :black_square_button: | Recursion | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :white_check_mark: | Sliding Window | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Binary Search | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Binary Search | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
