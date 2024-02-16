@@ -12,7 +12,8 @@ public:
         int offset = ch_cnt.size();
         size_t lo = 0;
         size_t hi = s1.size();
-        for (int i = 0; i < min(s2.size(), hi); i++) {
+        
+        for (int i = 0; i < min(s2.size(), hi); ++i) {
             char cur = s2[i];
             --ch_cnt[cur];
             if (ch_cnt[cur] == 0) --offset;
