@@ -1,16 +1,28 @@
 
 > [!IMPORTANT]
-> SOVLE THREE EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE TWO EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Recursion | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Sliding Window | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Binary Search | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Binary Search | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Recursion | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Stack | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Stack | [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Stack | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 4 FROM FEB 11 to FEB 17
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Recursion | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Sliding Window | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Stack | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Stack | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 4 FROM FEB 4 to FEB 10
