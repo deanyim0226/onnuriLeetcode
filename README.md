@@ -5,7 +5,7 @@
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
 | :black_square_button: | Recursion | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Stack | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Stack | [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
