@@ -1,10 +1,10 @@
 #include <vector>
 #include <string>
+#include <iostream>
 using namespace std;
 
 class Solution {
 public:
-
     vector<string> generateParenthesis(int n) {
         vector<string> q;
         q.push_back("(");
@@ -28,6 +28,16 @@ public:
             }
             q=nxt;
         }
+        cout << q.size();
         return q;
     }
 };
+
+int main() {
+    Solution solution;
+    int n = 10;  // Change this value to generate parentheses for a different number
+    vector<string> result = solution.generateParenthesis(n);
+    cout << "Generated Parentheses for n = " << n << ":" << result.size();
+
+    return 0;
+}
