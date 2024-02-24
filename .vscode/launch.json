@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dongh/gradproject/onnuriLeetcode/solutions/231.PowerOfTwo",
-      "program": "c:/Users/dongh/gradproject/onnuriLeetcode/solutions/231.PowerOfTwo/build/Debug/outDebug",
+      "cwd": "c:/Users/dongh/gradproject/onnurileetcode/solutions/206.ReverseLinkedList",
+      "program": "c:/Users/dongh/gradproject/onnurileetcode/solutions/206.ReverseLinkedList/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
