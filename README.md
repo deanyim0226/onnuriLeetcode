@@ -1,15 +1,28 @@
 
 > [!IMPORTANT]
-> SOVLE TWO EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE THREE EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
+> -------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :black_square_button: | Trees | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Binary Search | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [143. Reorder List](https://leetcode.com/problems/reorder-list/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Recursion | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 5 FROM FEB 18 to FEB 24
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Recursion | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Stack | [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Recursion | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Stack | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Stack | [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Stack | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 4 FROM FEB 11 to FEB 17
