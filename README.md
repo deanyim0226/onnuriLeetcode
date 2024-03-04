@@ -1,7 +1,6 @@
-
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > SOVLE THREE EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
-> -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
 | :black_square_button: | Trees | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
