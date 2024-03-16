@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dongh/gradproject/onnurileetcode/solutions/206.ReverseLinkedList",
-      "program": "c:/Users/dongh/gradproject/onnurileetcode/solutions/206.ReverseLinkedList/build/Debug/outDebug",
+      "cwd": "c:/Users/dongh/gradproject/onnurileetcode/solutions/226.InvertBinaryTree",
+      "program": "c:/Users/dongh/gradproject/onnurileetcode/solutions/226.InvertBinaryTree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
