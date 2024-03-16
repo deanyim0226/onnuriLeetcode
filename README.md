@@ -3,13 +3,26 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Trees | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Binary Search | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [143. Reorder List](https://leetcode.com/problems/reorder-list/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Recursion | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [100. Same Tree](https://leetcode.com/problems/same-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Linked List | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 7 FROM MAR 2 to MAR 9
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Trees | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Binary Search | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [143. Reorder List](https://leetcode.com/problems/reorder-list/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Recursion | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 5 FROM FEB 18 to FEB 24
