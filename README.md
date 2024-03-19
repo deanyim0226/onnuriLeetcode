@@ -1,15 +1,28 @@
 > [!IMPORTANT]  
-> SOVLE THREE EASY AND FOUR MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE TWO EASY AND FIVE MEDIUM PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Trees | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [100. Same Tree](https://leetcode.com/problems/same-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Linked List | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Linked List | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 8 FROM MAR 10 to MAR 16
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Trees | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [100. Same Tree](https://leetcode.com/problems/same-tree/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Linked List | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [78. Subsets](https://leetcode.com/problems/subsets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 7 FROM MAR 2 to MAR 9
