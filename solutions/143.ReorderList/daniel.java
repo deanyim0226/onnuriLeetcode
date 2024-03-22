@@ -27,7 +27,7 @@ class Solution {
     public void reorderList(ListNode head) {
 
         ListNode curr = head;
-        ListNode reversed = null; 
+        ListNode reversed = null;
       
         int listSize = 0;
         while(curr != null){
