@@ -3,13 +3,26 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Trees | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Trees | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Linked List | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [112. Path Sum](https://leetcode.com/problems/path-sum/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Graphs | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [46. Permutations](https://leetcode.com/problems/permutations/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 8 FROM MAR 17 to MAR 23
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Trees | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Trees | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Linked List | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 8 FROM MAR 10 to MAR 16
