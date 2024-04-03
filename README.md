@@ -1,18 +1,31 @@
 > [!IMPORTANT]  
-> SOVLE TWO EASY AND FIVE MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE ONE EASY AND SIX MEDIUM PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Trees | [112. Path Sum](https://leetcode.com/problems/path-sum/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Trees | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Graphs | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [46. Permutations](https://leetcode.com/problems/permutations/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Trees | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [79. Word Search](https://leetcode.com/problems/word-search/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
-> WEEK 8 FROM MAR 17 to MAR 23
+> WEEK 10 FROM MAR 24 to MAR 30
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Trees | [112. Path Sum](https://leetcode.com/problems/path-sum/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Trees | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Graphs | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [90. Subsets II](https://leetcode.com/problems/subsets-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [46. Permutations](https://leetcode.com/problems/permutations/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 9 FROM MAR 17 to MAR 23
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
@@ -51,7 +64,7 @@
 | :white_check_mark: | Recursion | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
-> WEEK 5 FROM FEB 18 to FEB 24
+> WEEK 6 FROM FEB 18 to FEB 24
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
@@ -63,7 +76,7 @@
 | :white_check_mark: | Stack | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
-> WEEK 4 FROM FEB 11 to FEB 17
+> WEEK 5 FROM FEB 11 to FEB 17
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
