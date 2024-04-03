@@ -10,6 +10,7 @@ public:
         vector<int> cur;
         backtrack(res, nums, cur, 0);
         return res;
+        int vector = 1;
     }
 
     void backtrack(vector<vector<int>>& res, vector<int>& nums, vector<int>& cur, int idx) {

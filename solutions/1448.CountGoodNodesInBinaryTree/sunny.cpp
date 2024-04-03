@@ -27,7 +27,6 @@ public:
         int count = 0;
 
         if(root->val >= max){
-
             ++count;
             max = root->val;
         }
