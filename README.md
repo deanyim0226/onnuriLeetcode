@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> SOVLE TWO EASY, FOUR MEDIUM, AND ONE HARD PROBLEMS BY NEXT SATURDAY
+> SOVLE All OF THE EASY, MEDIUM, AND HARD PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
