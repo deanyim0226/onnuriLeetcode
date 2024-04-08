@@ -1,15 +1,28 @@
 > [!IMPORTANT]  
-> SOVLE ONE EASY AND SIX MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE TWO EASY, FOUR MEDIUM, AND ONE HARD PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Trees | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Trees | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Trees | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [79. Word Search](https://leetcode.com/problems/word-search/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Graphs | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)| $\textcolor{Red}{\textsf{Hard}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 11 FROM MAR 31 to APR 6
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Trees | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Trees | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Trees | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [79. Word Search](https://leetcode.com/problems/word-search/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 10 FROM MAR 24 to MAR 30
