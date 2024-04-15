@@ -1,15 +1,27 @@
 > [!IMPORTANT]  
-> SOVLE All OF THE EASY, MEDIUM, AND HARD PROBLEMS BY NEXT SATURDAY
+> SOVLE EASY, MEDIUM, AND HARD PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | 1-D DP | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Graphs | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/excel-sheet-column-title/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Graphs | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [198. House Robber](https://leetcode.com/problems/house-robber/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Backtracking | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)| $\textcolor{Red}{\textsf{Hard}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 12 FROM APR 7 to APR 13
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | 1-D DP | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Graphs | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 11 FROM MAR 31 to APR 6
