@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Heap / Priority Queue | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/excel-sheet-column-title/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Heap / Priority Queue | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
 | :black_square_button: | Graphs | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | Graphs | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
