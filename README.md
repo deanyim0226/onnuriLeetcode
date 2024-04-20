@@ -1,15 +1,28 @@
 > [!IMPORTANT]  
-> SOVLE EASY, MEDIUM, AND HARD PROBLEMS BY NEXT SATURDAY
+> SOVLE EASY AND MEDIUM PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Heap / Priority Queue | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Heap / Priority Queue | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Graphs | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [198. House Robber](https://leetcode.com/problems/house-robber/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)| $\textcolor{Red}{\textsf{Hard}}$ | [Code]() |
+| :black_square_button: | Math | [202. Happy Number](https://leetcode.com/problems/happy-number/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [973. K Closest Points to Origin](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [215. Kth Largest Element in an Array](https://leetcode.com/problems/k-closest-points-to-origin/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 13 FROM APR 14 to APR 20
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Heap / Priority Queue | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Heap / Priority Queue | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)| $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Graphs | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [198. House Robber](https://leetcode.com/problems/house-robber/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)| $\textcolor{Red}{\textsf{Hard}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 12 FROM APR 7 to APR 13
