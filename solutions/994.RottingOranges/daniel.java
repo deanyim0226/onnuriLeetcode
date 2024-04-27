@@ -4,7 +4,7 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         
         int minTime = -1;
-        int freshOrange = 0;
+    
         Queue<Pair<Integer,Integer>> queue = new LinkedList<>();
         Set<Pair<Integer,Integer>> visited = new HashSet<>();
         boolean check = false;
