@@ -1,15 +1,27 @@
 > [!IMPORTANT]  
-> SOVLE EASY AND MEDIUM PROBLEMS BY NEXT SATURDAY
+> SOVLE MEDIUM PROBLEMS BY NEXT SATURDAY
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Math | [202. Happy Number](https://leetcode.com/problems/happy-number/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
-| :black_square_button: | Heap / Priority Queue | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Heap / Priority Queue | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Heap / Priority Queue | [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graphs | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [322. Coin Change](https://leetcode.com/problems/coin-change/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 11 FROM APR 21 to APR 27
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Math | [202. Happy Number](https://leetcode.com/problems/happy-number/description/)|  $\textcolor{green}{\textsf{Easy}}$ | [Code]() |
+| :white_check_mark: | Heap / Priority Queue | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Heap / Priority Queue | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 13 FROM APR 14 to APR 20
