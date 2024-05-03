@@ -6,24 +6,25 @@ using namespace std;
 class Solution {
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        vector<vector<int>> graph(edges.size() + 1);
+        vector<unordered_set<int>> graph(edges.size() + 1);
         for (auto edge: edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
+            graph[edge[0]].insert(edge[1]);
+            graph[edge[1]].insert(edge[0]);
         }
 
         for (int i = edges.size() - 1; i >= 0; --i) {
-            graph[edges[i][0]].erase(remove(graph[edges[i][0]].begin(), graph[edges[i][0]].end(), edges[i][1]), graph[edges[i][0]].end());
-            graph[edges[i][1]].erase(remove(graph[edges[i][1]].begin(), graph[edges[i][1]].end(), edges[i][0]), graph[edges[i][1]].end());
-            if (dfs(graph)) return edges[i];
-            graph[edges[i][0]].push_back(edges[i][1]);
-            graph[edges[i][1]].push_back(edges[i][0]);
+            auto edge = edges[i];
+            graph[edge[0]].erase(edge[1]);
+            graph[edge[1]].erase(edge[0]);
+            if (dfs(graph)) return edge;
+            graph[edge[0]].insert(edge[1]);
+            graph[edge[1]].insert(edge[0]);
 
         }
         return {};
     }
 
-    bool dfs(vector<vector<int>>& graph) {
+    bool dfs(vector<unordered_set<int>>& graph) {
         unordered_set<int> visited;
         vector<int> q = {1};
         visited.insert(1);
