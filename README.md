@@ -3,12 +3,21 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Heap / Priority Queue | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Heap / Priority Queue | [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graphs | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Two Pointers | [18. 4Sum](https://leetcode.com/problems/4sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Array & Hashing | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Greedy | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | 1-D DP | [322. Coin Change](https://leetcode.com/problems/coin-change/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | 1-D DP | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 15 FROM APR 28 to MAR 4
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Heap / Priority Queue | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Heap / Priority Queue | [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graphs | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 14 FROM APR 21 to APR 27
