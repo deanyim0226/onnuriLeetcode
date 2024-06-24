@@ -3,11 +3,22 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Sliding Window | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Stack | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Greedy | [55. Jump Game](https://leetcode.com/problems/jump-game/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [139. Word Break](https://leetcode.com/problems/word-break/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Binary Search | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [148. Sort List](https://leetcode.com/problems/sort-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Greedy | [134. Gas Station](https://leetcode.com/problems/gas-station/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 16 FROM JUN 16 to JUN 22
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Sliding Window | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Stack | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Greedy | [55. Jump Game](https://leetcode.com/problems/jump-game/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [139. Word Break](https://leetcode.com/problems/word-break/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 16 FROM JUN 9 to JUN 15
