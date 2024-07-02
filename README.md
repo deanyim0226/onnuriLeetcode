@@ -3,11 +3,22 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Binary Search | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Linked List | [148. Sort List](https://leetcode.com/problems/sort-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Greedy | [134. Gas Station](https://leetcode.com/problems/gas-station/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Linked List | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Greedy | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [120. Triangle](https://leetcode.com/problems/triangle/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 17 FROM JUN 23 to JUN 29
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Binary Search | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Linked List | [148. Sort List](https://leetcode.com/problems/sort-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Greedy | [134. Gas Station](https://leetcode.com/problems/gas-station/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 16 FROM JUN 16 to JUN 22
