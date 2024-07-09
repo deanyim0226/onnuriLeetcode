@@ -3,11 +3,19 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Linked List | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Trees | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Greedy | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [120. Triangle](https://leetcode.com/problems/triangle/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Graph | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Trees | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Backtracking | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Greedy | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | 1-D DP | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Linked List | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Trees | [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Greedy | [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [120. Triangle](https://leetcode.com/problems/triangle/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 17 FROM JUN 23 to JUN 29
