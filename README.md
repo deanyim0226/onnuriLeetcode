@@ -9,6 +9,9 @@
 | :black_square_button: | Greedy | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :black_square_button: | 1-D DP | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 19 FROM JUL 7 to JUL 13
+-------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
 | :white_check_mark: | Graph | [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
@@ -16,6 +19,9 @@
 | :white_check_mark: | Backtracking | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :white_check_mark: | Greedy | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 | :white_check_mark: | 1-D DP | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 18 FROM JUN 30 to JUL 6
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
