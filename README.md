@@ -3,11 +3,22 @@
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Difficulty | Solution |
 | :---: | :---: | :---: | :---: | :---: |
-| :black_square_button: | Tree | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Backtracking | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Graph | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | Greedy | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
-| :black_square_button: | 1-D DP | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Array | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | String | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Stack | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Binary Search | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :black_square_button: | Sliding Window | [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+-------------------------------------------------------------------------------
+> [!NOTE]
+> WEEK 20 FROM JUL 14 to JUL 20
+-------------------------------------------------------------------------------
+| Status | Topic | Title | Difficulty | Solution |
+| :---: | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Tree | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Backtracking | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Graph | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | Greedy | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)|  $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
+| :white_check_mark: | 1-D DP | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)| $\textcolor{BurntOrange}{\textsf{Medium}}$ | [Code]() |
 -------------------------------------------------------------------------------
 > [!NOTE]
 > WEEK 19 FROM JUL 7 to JUL 13
